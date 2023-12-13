@@ -1,5 +1,5 @@
-# Electricity Consumption with RNA RNN
-![image](https://github.com/Ayoub-etoullali/Electricity-Consumption-with-RNA-RNN/assets/92756846/495e70ed-f1ef-4b0f-bdf6-b7affafe7c5a)
+# NLP with Disaster Tweets
+![image](https://github.com/Ayoub-etoullali/NLP-with-Disaster-Tweets/assets/92756846/58104191-41c9-4cd8-abbd-ece77a07239e)
 
 <br>
 
@@ -9,4 +9,3 @@
 
 <kbd>Enjoy Code</kbd> 👨‍💻
 [My portfolio](https://ayoub-etoullali.netlify.app/)
-NLP with Disaster Tweets
